@@ -71,6 +71,11 @@ import ScanzyBarcodeScannerSDK
 
  @IBAction func barcode_scan(_ sender: Any) {
         let formats:ScanzyBarcodeFormat = [.Code128, .Code39, .UPCA, .UPCE]
+        
+        //the first parameter is enableVibration: true, vibrate your phone when barcode detected
+        //enableBeep: true, play the beep sound when barcode detected
+        //enableAutoZoom: the library will zoom in/out automatcially to scan the barcode
+        //enableScanRectOnly: only scan the view finder area
         let barcodeOptions = ScanzyBarcodeOptions(
             options: true,
             enableBeep: true,
