@@ -9,11 +9,11 @@ Check the guide line for each platform:
 |     Platform    | Guideline|
 | ------------- |:-------------:| 
 | [iOS]      | [https://github.com/ScanzyLLC/developer-docs/blob/main/iOS/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/iOS/guideline.md) |
-| Android      |   [https://github.com/ScanzyLLC/developer-docs/blob/main/iOS/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/Android/guideline.md)    |  
-| React Native |  [https://github.com/ScanzyLLC/developer-docs/blob/main/iOS/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/ReactNative/guideline.md)    |   
-| Flutter |   [https://github.com/ScanzyLLC/developer-docs/blob/main/iOS/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/Flutter/guideline.md)    |   
-| ionic |   [https://github.com/ScanzyLLC/developer-docs/blob/main/iOS/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/Ionic/guideline.md)   |   
-| Xamarin |   [https://github.com/ScanzyLLC/developer-docs/blob/main/iOS/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/Xamarin/guideline.md)    |   
+| Android      |   [https://github.com/ScanzyLLC/developer-docs/blob/main/Android/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/Android/guideline.md)    |  
+| React Native |  [https://github.com/ScanzyLLC/developer-docs/blob/main/ReactNative/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/ReactNative/guideline.md)    |   
+| Flutter |   [https://github.com/ScanzyLLC/developer-docs/blob/main/Flutter/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/Flutter/guideline.md)    |   
+| ionic |   [https://github.com/ScanzyLLC/developer-docs/blob/main/Ionic/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/Ionic/guideline.md)   |   
+| Xamarin |   [https://github.com/ScanzyLLC/developer-docs/blob/main/Xamarin/guideline.md](https://github.com/ScanzyLLC/developer-docs/blob/main/Xamarin/guideline.md)    |   
 
 
 
