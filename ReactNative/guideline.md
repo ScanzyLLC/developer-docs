@@ -5,7 +5,7 @@ Scanzy Barcode Scanner SDK implements the barcode capture capabilities of the Sc
 
 Before you started, get a 14 days free trial License Key from [scanzy.com](https://scanzy.com/trial).
 
-Follow the instructions below to integrate the SDK into your app or check out the [sample](https://github.com/ScanzyLLC/react-native-scanzy-barcode-scanner-plugin). If you have any questions or need help, check out official website [scanzy.com](https://scanzy.com).
+Follow the instructions below to integrate the SDK into your app or check out the [sample](https://github.com/ScanzyLLC/ScanzyBarcodeScannerSDKSampleReactNative). If you have any questions or need help, check out official website [scanzy.com](https://scanzy.com).
 
 
 ## Prerequisites
